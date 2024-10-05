@@ -1,4 +1,4 @@
-;;; fuel-mode.el --- Major mode for editing Factor programs. -*- lexical-binding: t -*-
+;;; fuel-mode.el --- Utilities for interacting with a factor listener.
 
 ;; Copyright (C) 2008, 2009, 2010 Jose Antonio Ortega Ruiz
 ;; See https://factorcode.org/license.txt for BSD license.
@@ -9,8 +9,9 @@
 
 ;;; Commentary:
 
-;; A major mode (factor-mode) for editing Factor programs and a minor mode
-;; (fuel-mode) for interacting with a running Factor image.
+;; The minor mode `fuel-mode' is intended for use in buffers using
+;; major mode `factor-mode'.  When it is enables a host of nice
+;; utilities for interacting with a factor listener is at your disposal.
 
 ;;; Code:
 
