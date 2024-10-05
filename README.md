@@ -11,7 +11,7 @@ beast.
 
 # Installation
 
-FUEL can be installed from [MELPA](http://melpa.milkbox.net/).
+FUEL can be installed from [MELPA](https://melpa.org/).
 
 Alternatively, FUEL comes bundled with Factor's distribution.
 The folder misc/fuel can be added to your load path:
