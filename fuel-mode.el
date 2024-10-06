@@ -1,4 +1,4 @@
-;;; fuel-mode.el --- Utilities for interacting with a factor listener.
+;;; fuel-mode.el --- Utilities for interacting with a factor listener. -*- lexical-binding: t -*-
 
 ;; Copyright (C) 2008, 2009, 2010 Jose Antonio Ortega Ruiz
 ;; See https://factorcode.org/license.txt for BSD license.
